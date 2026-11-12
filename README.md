@@ -41,6 +41,6 @@ Os exercícios estão organizados na pasta `src` divididos por módulos e tópic
 - [ ] Java EE / Spring Boot e projetos práticos
 
 ---
-Feito por **Kaito** 🚀
+Feito por **Kaio Guarines** 🚀
 EOF
 
